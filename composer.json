@@ -3,6 +3,7 @@
     "description": "Testing module",
     "type": "magento2-module",
     "license": "proprietary",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Mage2Gen",
