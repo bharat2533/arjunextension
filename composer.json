@@ -1,5 +1,5 @@
 {
-    "name": "cuspay/module-exetension",
+    "name": "cuspay/exetension",
     "description": "Testing module",
     "type": "magento2-module",
     "license": "proprietary",
