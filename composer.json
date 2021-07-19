@@ -14,9 +14,12 @@
     "repositories": [
         {      "url":"https://github.com/bharat2533/cuspayextension.git",
             "type": "vcs"
+        },
+         {      "url":"https://github.com/bharat2533/cuspayextension.git",
+            "type": "git"
         }
     ],
-    "require": {},
+    "require": { "bharat2533/cuspayextension": "dev-main"},
     "autoload": {
         "files": [
             "registration.php"
