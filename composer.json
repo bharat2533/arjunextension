@@ -11,6 +11,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "repositories": [
+        {      "url":"https://github.com/bharat2533/cuspayextension.git",
+            "type": "git"
+        }
+    ],
     "require": {},
     "autoload": {
         "files": [
