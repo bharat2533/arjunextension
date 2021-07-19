@@ -13,7 +13,7 @@
             "email": "info@mage2gen.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-stable",
     "repositories": [
         {    
             "type": "composer",
