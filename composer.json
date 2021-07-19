@@ -12,14 +12,15 @@
     ],
     "minimum-stability": "dev",
     "repositories": [
-        {     "type": "composer",
+        {    
+            "type": "composer",
             "url": "https://repo.magento.com/"
         },
-         {      "url":"https://github.com/bharat2533/cuspayextension.git",
+        {   
+            "url":"https://github.com/bharat2533/cuspayextension.git",
             "type": "git"
         }
     ],
-    "require": { "bharat2533/cuspayextension": "dev-main"},
     "autoload": {
         "files": [
             "registration.php"
