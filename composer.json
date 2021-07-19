@@ -12,8 +12,8 @@
     ],
     "minimum-stability": "dev",
     "repositories": [
-        {      "url":"https://github.com/bharat2533/cuspayextension.git",
-            "type": "vcs"
+        {     "type": "composer",
+            "url": "https://repo.magento.com/"
         },
          {      "url":"https://github.com/bharat2533/cuspayextension.git",
             "type": "git"
